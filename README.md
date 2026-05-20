@@ -58,4 +58,38 @@ Run all notebook cells
 Output
 The notebook generates multiple charts and statistical insights from the smartphone dataset.
 Author
+Created for educational and data analysis practice purposes.Untitled1.ipynb → Main Jupyter Notebook
+cleaned_data_500x5.csv → Smartphone dataset
+Visualizations
+The project includes:
+Distribution plots
+Histograms
+RAM distribution analysis
+Price analysis charts
+Rating visualization
+Statistical graphs
+Demonstration
+The notebook demonstrates:
+Running Python code
+Loading and exploring datasets
+Statistical calculations
+Creating visualizations
+Data distribution analysis
+Smartphone market trend analysis
+Purpose
+This project is designed for practicing:
+Exploratory Data Analysis (EDA)
+Data visualization
+Statistical analysis
+Python programming for data science
+How to Run
+Download the project files
+Open the notebook in Jupyter Notebook or Google Colab
+Install required libraries if needed:
+Bash
+pip install pandas numpy matplotlib seaborn scipy
+Run all notebook cells
+Output
+The notebook generates multiple charts and statistical insights from the smartphone dataset.
+Author
 Created for educational and data analysis practice purposes.
