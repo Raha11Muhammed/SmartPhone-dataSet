@@ -1,0 +1,501 @@
+model,price,rating,ram_gb,storage_gb
+oneplus 11 5g,54999,89.0,12,12
+oneplus nord ce 2 lite 5g,19989,81.0,6,6
+samsung galaxy a14 5g,16499,75.0,4,4
+motorola moto g62 5g,14999,81.0,6,6
+realme 10 pro plus,24999,82.0,6,6
+samsung galaxy f23 5g,16999,80.0,6,6
+apple iphone 14,65999,81.0,6,6
+xiaomi redmi note 12 pro plus,29999,86.0,8,8
+nothing phone 1,26749,85.0,8,8
+oneplus nord 2t 5g,28999,84.0,8,8
+realme 10 pro,18999,82.0,6,6
+oppo a78,18999,79.0,8,8
+xiaomi redmi note 12 pro 5g,24762,79.0,6,6
+vivo t1 5g,16990,80.0,6,6
+samsung galaxy s23 ultra 5g,114990,80.0,8,8
+apple iphone 13,62999,79.0,4,4
+vivo y16,9999,65.0,3,3
+oppo reno 9 pro plus,45999,86.0,16,16
+oneplus 10r 5g,32999,86.0,8,8
+vivo y22,14499,72.0,4,4
+oneplus 11r,39999,85.0,8,8
+vivo v25 pro 5g,35999,85.0,8,8
+poco x4 pro 5g,14999,80.0,6,6
+xiaomi redmi note 12,17859,76.0,4,4
+vivo v26 pro,42990,87.0,12,12
+samsung galaxy s20 fe 5g,31239,88.0,8,8
+oneplus nord ce 2 lite 5g,21995,84.0,8,8
+apple iphone 14 pro max,129990,76.0,6,6
+vivo v25 5g,27999,83.0,8,8
+oneplus 11 pro,69999,80.0,8,8
+realme 10 pro,19999,84.0,8,8
+poco x5 pro,20999,81.0,6,6
+vivo v27,27990,83.0,8,8
+apple iphone 11,38999,73.0,4,4
+samsung galaxy m53 5g,23790,85.0,6,6
+samsung galaxy s21 fe 5g,39999,87.0,8,8
+oppo reno 8t,29990,87.0,8,8
+samsung galaxy s22 ultra 5g,91999,80.0,12,12
+xiaomi redmi note 12 pro max 5g,32999,83.0,6,6
+oppo reno 9 5g,28499,83.0,8,8
+oneplus nord ce 3 5g,21999,83.0,6,6
+xiaomi redmi note 11 pro plus 5g,19999,83.0,6,6
+motorola edge 20 fusion 5g,18999,87.0,6,6
+realme 10 pro plus,27999,85.0,8,8
+vivo y35,18499,80.0,8,8
+samsung galaxy m33 5g,17478,81.0,6,6
+xiaomi redmi note 11,11936,76.0,4,4
+realme c33,8950,64.0,3,3
+vivo y16,12489,68.0,4,4
+samsung galaxy a74 5g,42999,80.0,8,8
+samsung galaxy a14 5g,18999,79.0,6,6
+iqoo neo 7 5g,29999,82.0,8,8
+jio jiophone 5g,11990,64.0,4,4
+motorola moto g82 5g,18999,83.0,6,6
+realme 10,13999,74.0,4,4
+realme 9i 5g,14965,75.0,4,4
+apple iphone 14 plus,74999,82.0,6,6
+xiaomi redmi note 10s,10999,78.0,6,6
+samsung galaxy s23 plus,84990,89.0,8,8
+motorola moto g32,10499,75.0,4,4
+xiaomi redmi note 13 pro 5g,17990,78.0,6,6
+vivo s16,29990,85.0,8,8
+samsung galaxy a23,18499,79.0,6,6
+vivo y22,16499,75.0,6,6
+poco m4 pro 5g,14999,81.0,6,6
+vivo s16 pro,35499,86.0,8,8
+oneplus 10 pro 5g,60999,89.0,8,8
+xiaomi redmi note 12 pro plus,32999,87.0,12,12
+samsung galaxy f23 5g,15999,78.0,4,4
+oppo find n fold,99990,80.0,8,8
+oppo a17k,9499,62.0,3,3
+vivo v23 5g,27994,86.0,12,12
+iqoo z6 lite 5g,13989,75.0,4,4
+oneplus 10t,44999,85.0,8,8
+xiaomi redmi note 10t 5g,13999,79.0,6,6
+gionee g13 pro,6190,80.0,4,4
+apple iphone 13 pro,119900,83.0,6,6
+oppo f22 pro,27660,83.0,8,8
+samsung galaxy a34 5g,24999,75.0,6,6
+xiaomi redmi 10a,8388,66.0,4,4
+motorola moto g72 4g,15999,83.0,6,6
+samsung galaxy a14 5g,20999,82.0,8,8
+realme 9 5g,13999,75.0,4,4
+vivo t1 5g,19990,83.0,8,8
+samsung galaxy m13 5g,13999,75.0,6,6
+motorola edge 30 5g,22999,83.0,6,6
+samsung galaxy a23 5g,22999,79.0,6,6
+oppo k10 5g,16999,79.0,8,8
+xiaomi redmi note 11,14290,80.0,6,6
+samsung galaxy a73 5g,41999,80.0,8,8
+vivo y21 2021,13489,69.0,4,4
+oneplus ace racing edition 5g,22990,83.0,8,8
+motorola moto g62,16499,84.0,8,8
+vivo x90 pro plus 5g,73999,80.0,12,12
+realme c33,9999,67.0,4,4
+realme 9i,12499,75.0,4,4
+oppo a17,12499,72.0,4,4
+iqoo 11 5g,59999,88.0,8,8
+vivo x fold 5g,106990,80.0,12,12
+vivo t1 5g,15990,78.0,4,4
+apple iphone 14 pro,119990,75.0,6,6
+xiaomi redmi note 11 pro max 5g,19999,83.0,6,6
+motorola moto s30 pro,23990,83.0,8,8
+realme 10s,12999,80.0,8,8
+oppo f19 pro plus 5g,19990,82.0,8,8
+xiaomi 13 pro 5g,58990,80.0,8,8
+vivo v27 pro,43999,87.0,12,12
+samsung galaxy s22 5g,49999,86.0,8,8
+vivo t1 44w,15999,79.0,6,6
+oneplus 10r 5g,36999,87.0,12,12
+tecno phantom x2,39999,85.0,8,8
+apple iphone 12,51999,74.0,4,4
+xiaomi redmi k50i 5g,22999,82.0,6,6
+samsung galaxy a53 5g,31999,87.0,6,6
+xiaomi redmi a1,6171,80.0,2,2
+oppo reno8 5g,29340,83.0,8,8
+samsung galaxy m53 5g,25289,87.0,8,8
+iqoo z6 pro 5g,21788,78.0,6,6
+tesla pi phone,69999,83.0,16,16
+samsung galaxy s23,70990,88.0,8,8
+motorola edge 30 pro 5g,34999,89.0,8,8
+oneplus nord 2t,33900,85.0,12,12
+google pixel 6a,29999,71.0,6,6
+infinix note 12 pro 5g,18999,84.0,8,8
+samsung galaxy m33 5g,19499,84.0,8,8
+vivo v23 5g,24994,83.0,8,8
+motorola moto g42,10999,78.0,4,4
+oneplus nord ce 2 lite 5g,24999,85.0,8,8
+samsung galaxy a33 5g,25999,82.0,6,6
+google pixel 7a,34990,69.0,6,6
+xiaomi redmi 11 prime 5g,13466,74.0,4,4
+xiaomi redmi note 10 lite,9999,76.0,4,4
+motorola moto e40,7999,71.0,4,4
+nothing phone 1,28249,86.0,8,8
+poco x4 pro 5g,16499,82.0,6,6
+xiaomi redmi note 11 pro plus 5g,22999,87.0,8,8
+apple iphone 11,46999,75.0,4,4
+realme c35,13999,74.0,6,6
+oppo k10,13490,78.0,6,6
+iqoo neo 6 5g,28999,82.0,8,8
+iqoo z6 5g,15499,78.0,4,4
+oppo reno 9 pro 5g,39999,86.0,16,16
+poco m4 pro 5g,12999,76.0,4,4
+jio phone 3,4499,80.0,2,2
+oneplus clover,14999,69.0,4,4
+samsung galaxy f04,8499,68.0,4,4
+iqoo 7,24990,83.0,8,8
+samsung galaxy m34 5g,16999,84.0,6,6
+xiaomi redmi 10,9589,71.0,4,4
+apple iphone 12 mini,40999,74.0,4,4
+xiaomi redmi note 12,19988,79.0,6,6
+motorola moto g52,11999,75.0,4,4
+apple iphone 15 pro max,142990,79.0,8,8
+oppo a98,30990,87.0,8,8
+infinix zero 5g 2023,19499,85.0,8,8
+realme c30,5299,80.0,2,2
+oppo f21 pro 5g,25969,82.0,8,8
+realme 11 pro,28999,82.0,6,6
+oppo find n2 5g,94990,80.0,12,12
+realme 9 4g,14999,81.0,6,6
+cola phone,14999,74.0,4,4
+apple iphone 13 pro max,129900,84.0,6,6
+oppo reno 10 pro plus,58990,88.0,12,12
+vivo x90 5g,41990,88.0,8,8
+samsung galaxy f13,10999,74.0,4,4
+xiaomi redmi note 10s,11999,79.0,6,6
+realme 10,16999,79.0,8,8
+iqoo 9 se 5g,30990,83.0,8,8
+infinix hot 20,17999,75.0,4,4
+letv y1 pro,5499,80.0,4,4
+xiaomi redmi note 13 pro max 5g,20499,83.0,6,6
+realme narzo 50 pro 5g,20490,81.0,6,6
+oppo a74 5g,15490,77.0,6,6
+apple iphone 9,29990,61.0,3,3
+iqoo z6 lite,15499,79.0,6,6
+xiaomi redmi note 11se,11999,80.0,6,6
+realme narzo 50,10999,74.0,4,4
+vivo y75 5g,21990,82.0,8,8
+vivo v25,31999,85.0,12,12
+poco m4 pro 4g,11999,77.0,6,6
+infinix zero ultra,36999,89.0,8,8
+tecno spark go 2023,6999,62.0,3,3
+motorola moto x40,39999,89.0,8,8
+samsung galaxy f24 5g,14999,78.0,4,4
+realme 10 5g,14499,79.0,8,8
+oneplus nord 3 5g,27999,84.0,8,8
+motorola moto g82,20499,86.0,8,8
+ikall z19 pro,8099,60.0,4,4
+leeco s1 pro,10999,65.0,8,8
+realme c2s,3499,63.0,3,3
+duoqin f22 pro,9990,80.0,4,4
+samsung galaxy m54 5g,34999,85.0,6,6
+nokia n73 5g,46999,80.0,12,12
+motorola edge 30 fusion 5g,39999,88.0,8,8
+realme c35,11828,70.0,4,4
+oppo reno 8 pro house of dragon edition,45999,86.0,12,12
+oneplus nord ce 3 lite 5g,18999,81.0,6,6
+poco x4 pro 5g,17999,84.0,8,8
+samsung galaxy m04,8499,66.0,4,4
+oppo a77s,17999,76.0,8,8
+samsung galaxy a13,14450,75.0,4,4
+motorola edge 30 ultra,54999,80.0,8,8
+xiaomi 13 ultra 5g,71999,80.0,12,12
+motorola moto g52,12999,79.0,6,6
+poco m4 5g,11499,75.0,4,4
+nothing phone 1,35999,87.0,12,12
+samsung galaxy a54 5g,34999,76.0,6,6
+tecno pova 4,11999,73.0,8,8
+xiaomi redmi note 12 pro,27994,82.0,8,8
+apple iphone 14 pro max,139990,77.0,6,6
+vivo v25 pro,39999,86.0,12,12
+realme 9 5g,15499,79.0,6,6
+realme 9 pro 5g,18999,80.0,6,6
+lava blaze 5g,10999,73.0,4,4
+honor x9a,27999,81.0,8,8
+google pixel 7 pro 5g,81999,80.0,12,12
+tecno pova 3,9999,74.0,4,4
+vivo v23 pro 5g,31994,85.0,8,8
+samsung galaxy a04e,9299,65.0,3,3
+xiaomi redmi k60,29990,84.0,8,8
+realme 9 pro plus 5g,25900,78.0,6,6
+realme 9i 5g,16999,78.0,6,6
+motorola edge 30 5g,24999,85.0,8,8
+xiaomi redmi note 11,12188,79.0,6,6
+vivo y02,8999,80.0,3,3
+poco c31,7499,68.0,4,4
+realme narzo 50 5g,17999,79.0,6,6
+realme gt neo 3t,24999,79.0,6,6
+oppo reno 8 pro 5g,45999,86.0,12,12
+oneplus 10 pro 5g,65499,80.0,12,12
+iqoo 11 pro 5g,58990,89.0,8,8
+vivo t1x 4g,11999,74.0,4,4
+xiaomi redmi 10 power,11999,77.0,8,8
+oppo a58,18990,76.0,6,6
+vivo t1,14499,77.0,4,4
+xiaomi mix fold 2 5g,106990,80.0,12,12
+vivo y16,10499,66.0,3,3
+oppo reno 8 z,26990,86.0,8,8
+vivo y75 4g,19990,82.0,8,8
+xiaomi redmi note 12 explorer,24999,89.0,8,8
+oppo a57 4g,13969,69.0,4,4
+samsung galaxy a75 5g,44999,83.0,8,8
+vivo t1 pro 5g,24999,84.0,8,8
+google pixel 7 5g,53100,86.0,8,8
+xiaomi redmi note 11t 5g,16999,81.0,6,6
+oppo f21s pro 4g,21899,82.0,8,8
+apple iphone 14,75999,82.0,6,6
+motorola moto g73,25999,85.0,8,8
+nubia red magic 8 pro 5g,46990,84.0,8,8
+motorola moto g31,9999,75.0,4,4
+tecno phantom x2 pro,49999,89.0,12,12
+infinix zero 20,17999,87.0,8,8
+iqoo z6 5g,16940,80.0,6,6
+xiaomi redmi note 11 pro 5g,17990,81.0,6,6
+oppo a1 pro,20990,84.0,8,8
+samsung galaxy s22 fe 5g,51999,79.0,8,8
+samsung galaxy s22 plus 5g,64449,87.0,8,8
+vivo u3x,8990,71.0,6,6
+motorola moto g23,19999,77.0,4,4
+poco m4 5g,13499,79.0,6,6
+tecno pova 5g,15499,78.0,8,8
+poco c31,6499,65.0,3,3
+apple iphone xr2,71999,60.0,4,4
+samsung galaxy a53,36499,89.0,8,8
+infinix note 12 5g,15999,78.0,6,6
+oppo reno7 pro 5g,31994,87.0,12,12
+oneplus ace 2,34999,84.0,8,8
+redmi note 11 pro,18999,81.0,6,6
+nothing phone 2,39990,88.0,8,8
+samsung galaxy a32,16499,82.0,8,8
+google pixel 6 pro,54300,89.0,12,12
+infinix note 12i,9999,73.0,4,4
+xiaomi redmi 11 prime 5g,15990,77.0,6,6
+xiaomi redmi note 11 pro plus 5g,22700,86.0,8,8
+xiaomi 12 pro 5g,50990,89.0,8,8
+apple iphone 13 mini,64900,79.0,4,4
+tecno pova 3,13799,77.0,6,6
+realme c31,8999,65.0,4,4
+asus rog phone 6 pro 5g,89999,88.0,18,18
+vivo v23e 5g,21994,84.0,8,8
+apple iphone 14 mini,69990,70.0,6,6
+xiaomi redmi note 10t 5g,12999,75.0,4,4
+iqoo neo 7 se 5g,24990,83.0,8,8
+samsung galaxy a23,19990,82.0,8,8
+xiaomi redmi note 12 pro,26999,82.0,8,8
+xiaomi redmi note 12 turbo,19999,81.0,8,8
+infinix note 12 pro,16900,83.0,8,8
+infinix hot 20,19999,78.0,6,6
+apple iphone 14 pro max,182999,78.0,6,6
+samsung galaxy m13,12999,75.0,6,6
+poco m4 pro 5g,15999,82.0,8,8
+xiaomi redmi note 10s,13999,82.0,8,8
+realme c11 2021,7749,61.0,4,4
+samsung galaxy a23 5g,24999,81.0,8,8
+motorola edge 30 ultra,59999,80.0,12,12
+oppo f21s pro,25895,82.0,8,8
+xiaomi 13 5g,46990,89.0,8,8
+xiaomi redmi 10a,7499,64.0,3,3
+vivo y01a,7790,60.0,2,2
+xiaomi redmi k50i,25999,85.0,8,8
+realme c30,6299,60.0,3,3
+motorola moto g51 5g,12999,77.0,4,4
+xiaomi redmi 10,11999,75.0,6,6
+xiaomi mi 11 lite ne 5g,21890,83.0,6,6
+samsung galaxy z flip 3,69999,84.0,8,8
+apple iphone 12,55999,75.0,4,4
+oneplus 10t,55999,87.0,16,16
+samsung galaxy a13,14999,75.0,4,4
+oppo reno7 5g,25994,85.0,8,8
+oneplus 9rt 5g,42999,85.0,8,8
+samsung galaxy a53 5g,33499,89.0,8,8
+samsung galaxy s22 ultra 5g,118999,80.0,12,12
+motorola moto g71 5g,16999,80.0,6,6
+itel s16 pro,6990,80.0,2,2
+vivo y100,29990,82.0,8,8
+samsung galaxy m13 5g,12944,71.0,4,4
+poco x5 gt,29990,84.0,8,8
+honor x9 5g,16999,80.0,8,8
+iqoo 11,64999,89.0,16,16
+samsung galaxy z fold 4,154998,80.0,12,12
+royole flexpai 2,109999,87.0,8,8
+apple iphone 14 plus,84999,83.0,6,6
+samsung galaxy a33 5g,27499,85.0,8,8
+tecno spark 9,8999,69.0,6,6
+google pixel 6,40480,84.0,8,8
+xiaomi redmi note 10 pro,17999,81.0,6,6
+samsung galaxy s21 ultra,105999,80.0,12,12
+infinix hot 20 play,8999,67.0,4,4
+vivo t1x,14999,77.0,6,6
+oppo f23 pro,19990,82.0,8,8
+iqoo z6 pro 5g,23399,80.0,8,8
+samsung galaxy a73 5g,41990,80.0,8,8
+realme 9 5g se,22998,82.0,8,8
+poco f4 5g,25999,82.0,6,6
+infinix note 12,11700,74.0,4,4
+samsung galaxy a03 core,6499,80.0,2,2
+motorola moto g60,15999,84.0,6,6
+oneplus 9 pro,64800,89.0,8,8
+xiaomi redmi note 11s,14590,80.0,6,6
+xiaomi redmi 9 activ,7499,68.0,4,4
+tecno camon 19 pro 5g,21999,82.0,8,8
+samsung galaxy a04,11999,71.0,4,4
+poco m4 pro 4g,12999,79.0,6,6
+oneplus nord n20 5g,20990,81.0,6,6
+apple iphone 13,72999,79.0,4,4
+oppo find x6 pro,77990,80.0,12,12
+vivo x90 pro 5g,56999,80.0,8,8
+motorola moto g53,21999,79.0,4,4
+motorola moto g22,9499,75.0,4,4
+xiaomi redmi 9i sport,7499,66.0,4,4
+jio jiophone next,4649,80.0,2,2
+vivo y93,18000,62.0,4,4
+xiaomi redmi k60 pro,38999,85.0,8,8
+realme c30s,7145,80.0,2,2
+vivo y22s,14990,77.0,8,8
+oppo a77,15499,70.0,4,4
+xiaomi redmi 10a sport,9999,69.0,6,6
+poco f4,29999,86.0,12,12
+realme 9 4g,15999,84.0,8,8
+xiaomi 12t pro 5g,59990,89.0,8,8
+iqoo 9 5g,34990,84.0,8,8
+apple iphone 12 mini,45999,75.0,4,4
+samsung galaxy s24 ultra,119990,85.0,12,12
+oppo find n flip,89990,88.0,8,8
+oneplus 10t,50999,87.0,12,12
+tecno spark 9,7999,65.0,4,4
+samsung galaxy s21 fe 5g,43999,88.0,8,8
+xiaomi redmi note 11t 5g,18499,83.0,8,8
+sony xperia pro-i,134999,80.0,12,12
+vivo v21 pro,32999,85.0,8,8
+poco x3,13499,80.0,6,6
+samsung galaxy s20 fe,35489,86.0,8,8
+google pixel 4,20120,78.0,6,6
+samsung galaxy s10 plus,42999,81.0,8,8
+realme 11 pro plus,24999,78.0,6,6
+oppo f21 pro 4g,20999,82.0,8,8
+realme gt 2 5g,28994,84.0,8,8
+samsung galaxy s21,48900,88.0,8,8
+samsung galaxy a71,22494,86.0,8,8
+vivo y02s,8990,61.0,3,3
+letv y2 pro,6999,80.0,4,4
+tecno spark 8c,8890,63.0,4,4
+iqoo z6 5g,18498,82.0,8,8
+vivo t1 pro,23999,81.0,6,6
+realme 9 pro plus 5g,22994,81.0,8,8
+samsung galaxy a04s,12990,71.0,4,4
+realme 9i,14999,78.0,6,6
+realme 8 5g,18499,80.0,8,8
+oppo f19,14990,78.0,6,6
+oppo find n2 flip,70990,88.0,8,8
+samsung galaxy m32 prime edition,12120,75.0,4,4
+oukitel wp19,29990,84.0,8,8
+realme 9 pro 5g,20999,82.0,8,8
+xiaomi redmi note 10 lite,11999,80.0,6,6
+samsung galaxy a13 5g,17990,73.0,4,4
+xiaomi redmi note 11 5g,14990,77.0,4,4
+itel p36,6490,80.0,1,1
+jio jiophone 2,2999,80.0,512,512
+realme gt neo 5,34999,83.0,8,8
+apple iphone 15 ultra,149900,79.0,8,8
+poco c50,6499,80.0,2,2
+samsung galaxy note 30 ultra 5g,104999,80.0,12,12
+realme 9i,13999,75.0,4,4
+xiaomi redmi note 11t 5g,16999,79.0,6,6
+vivo x80 pro 5g,79999,80.0,12,12
+oppo reno 6 pro 5g,36760,87.0,12,12
+xiaomi mi 11i 5g,23499,81.0,6,6
+asus rog phone 7,75990,87.0,18,18
+oppo a77 5g,21990,76.0,6,6
+realme 9 5g se,18999,80.0,6,6
+samsung galaxy a03,7249,66.0,3,3
+oneplus nord n200,16990,75.0,4,4
+xiaomi mi 11x,23890,80.0,6,6
+oppo reno 6,26380,83.0,8,8
+realme x50 pro 5g,27999,87.0,12,12
+xiaomi redmi 10a,10850,70.0,6,6
+redmi note 12 pro speed edition,19999,81.0,6,6
+apple iphone 14 pro,129990,76.0,6,6
+motorola moto g72,19990,81.0,6,6
+motorola moto x30 pro,41990,80.0,8,8
+xiaomi 12s ultra,69990,80.0,8,8
+honor 70 5g,39990,88.0,12,12
+oneplus 10 pro 5g,74999,80.0,12,12
+vivo v23 pro 5g,36994,87.0,12,12
+oppo a55 4g,14700,76.0,6,6
+xiaomi mi 11t pro 5g,34990,86.0,8,8
+nokia x50 5g,34999,76.0,6,6
+xiaomi redmi note 10,13990,75.0,4,4
+vertu signature touch,650000,62.0,2,2
+samsung galaxy m32 prime edition,14859,79.0,6,6
+tecno camon 19 pro mondrian edition,17999,84.0,8,8
+poco f5,34990,85.0,8,8
+blu f91 5g,14990,85.0,8,8
+oppo a16e,8999,65.0,3,3
+motorola moto e32,8999,71.0,4,4
+xiaomi redmi note 11s,15824,84.0,8,8
+apple iphone se 3 2022,43900,80.0,4,4
+samsung galaxy a52,22494,86.0,8,8
+poco x3 pro,19650,82.0,6,6
+xiaomi redmi 9a,6999,61.0,2,2
+samsung galaxy a32,16499,80.0,6,6
+motorola moto g13,15999,75.0,4,4
+asus rog phone 6 batman edition,72999,88.0,16,16
+xiaomi redmi note 12 pro plus,26999,84.0,6,6
+infinix smart 6 hd,6999,80.0,2,2
+apple iphone 15 pro,130990,75.0,8,8
+realme c35,12787,71.0,4,4
+infinix hot 12,9999,72.0,4,4
+vivo x80 5g,54999,86.0,8,8
+vivo y53s,15490,79.0,8,8
+tecno phantom x,25999,84.0,8,8
+samsung galaxy m04,9499,68.0,4,4
+redmi 12c,7999,70.0,4,4
+asus zenfone 9,63990,86.0,8,8
+sony xperia l5 5g,15990,73.0,4,4
+iqoo 9 se 5g,34949,85.0,12,12
+tecno spark 8 pro,8799,72.0,4,4
+xiaomi redmi 10 prime,12390,74.0,4,4
+samsung galaxy f22,11499,73.0,4,4
+xiaomi redmi mix alpha,199990,80.0,12,12
+oppo reno 10 pro,42990,86.0,16,16
+nubia z50,34999,82.0,8,8
+samsung galaxy f13,11999,75.0,4,4
+nokia g11 plus,10499,70.0,4,4
+infinix hot 12 play,8910,66.0,4,4
+vivo t2 5g,24990,85.0,8,8
+oppo reno7 z 5g,17999,84.0,8,8
+xiaomi redmi 11 lite ne 5g,22999,86.0,8,8
+realme narzo 50i,6490,80.0,2,2
+infinix zero x pro,21990,85.0,8,8
+samsung galaxy m32,12364,76.0,4,4
+samsung galaxy a82 5g,39990,86.0,6,6
+xiaomi poco f1,11999,77.0,6,6
+vivo y25,7499,80.0,1,1
+motorola moto e13,10499,65.0,2,2
+tecno pop 6 pro,6299,80.0,2,2
+vivo x fold plus,113990,80.0,12,12
+huawei mate 50 rs porsche design,239999,81.0,12,12
+samsung galaxy f63,21999,84.0,6,6
+iqoo z6 4g,15999,80.0,6,6
+nokia 8000 4g,6899,80.0,512,512
+sony xperia 5 ii,69990,86.0,8,8
+vivo y3,12990,71.0,4,4
+sony xperia 1 iv,92980,80.0,12,12
+tecno pova 4 pro,15999,74.0,8,8
+huawei nova 10 se,23999,84.0,8,8
+vivo t1x,12999,75.0,4,4
+nubia red magic 7s pro,60990,86.0,12,12
+motorola moto e32s,8859,67.0,4,4
+iqoo neo 6 5g,33749,84.0,12,12
+samsung galaxy a15,15990,63.0,6,6
+poco x4 gt 5g,24990,84.0,8,8
+realme narzo 50 5g,14999,76.0,4,4
+vivo y77 5g,17990,76.0,6,6
+honor 60 se 5g,24990,75.0,8,8
+xiaomi redmi 11 prime,11600,74.0,4,4
+realme c31,8299,62.0,3,3
+motorola moto g31,11999,78.0,6,6
+samsung galaxy z flip 4 5g,89999,88.0,8,8
+oneplus 6,27999,77.0,8,8
